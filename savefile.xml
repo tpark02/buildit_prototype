@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildingInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cubeList>
+    <CubeInfo>
+      <prefabName>SM_Playground_01</prefabName>
+      <position>
+        <x>7.85145664</x>
+        <y>0.5</y>
+        <z>3.99661732</z>
+      </position>
+      <rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </scale>
+    </CubeInfo>
+    <CubeInfo>
+      <prefabName>SM_Playground_01</prefabName>
+      <position>
+        <x>-4.95368</x>
+        <y>0.5</y>
+        <z>0.157240868</z>
+      </position>
+      <rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <scale>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </scale>
+    </CubeInfo>
+  </cubeList>
+</BuildingInfo>

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6cdc23230e1fb964b98352c2f1ca1323
+labels:
+- Overview
+- RenderQueue
+- Shader
+- Statistic
+- Optimize
+- Optimization
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

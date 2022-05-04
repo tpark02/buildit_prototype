@@ -1,0 +1,46 @@
+Background 1000
+Geometry 2000
+AlphaTest 2450
+Transparent 3000 
+Overlay 4000
+
+Ground = Geometry-800
+
+WindowFrame, WindowFrameSelected = Geometry-93
+WindowGlass = Geometry-92
+Indoor = Geometry-90
+
+GridRegion = Geometry-76
+GridPlacement = Geometry-75
+GroundOverdraw, Ground2TexOverdraw = Geometry-70
+GroundL2 = Geometry-69
+Ground2TexL2Overdraw = Geometry-68
+
+RanchRegion = Geometry-66
+
+Tree = Geometry-5
+Crop = Geometry-4,
+PropIllum, Prop2TIllum = Geometry-1
+Prop, PropSelected, PropNormalRim = Geometry,
+PropRamp = Geometry+1
+Character = Geometry+10
+CharacterFace = Geometry+11
+
+GroundAlpha, Ground2TAlpha = AlphaTest
+Foliage = AlphaTest+5
+Prop2TAlpha = AlphaTest+5
+PropCutout = AlphaTest+5
+GridPlacementCube = AlphaTest+10
+
+WaterAlphaUVAnim, WaterEdgeWave, WaterWave = Transparent-1
+Water = Transparent
+
+PlaneShadow = Transparent
+GridActive = Transparent
+Ghost = Transparent
+CharacterPartTransparent, IndoorTransparent, PropTransparent, Prop2TTransparent, CropTransparent, TreeTransparent = Transparent
+FXTransparent = Transparent
+
+
+Particles/Additive = Transparent+1
+PropHardClipX
